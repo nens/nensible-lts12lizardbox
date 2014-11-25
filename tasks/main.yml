@@ -1,0 +1,7 @@
+---
+- name: Update all packages (apt-get update+upgrade)
+  action: apt update_cache=yes upgrade=full cache_valid_time=3600
+
+- name: Install necessary ubuntu packages
+  action: apt name={{ item }} state=installed
+  with_items: lts12lizardbox_packages
