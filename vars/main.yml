@@ -19,7 +19,6 @@ lts12lizardbox_packages:
   - python-matplotlib
   - python-nose
   - python-pandas
-  - python-pil
   - python-psycopg2
   - python-scipy
   - python-tornado
