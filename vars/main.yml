@@ -15,7 +15,7 @@ lts12lizardbox_packages:
   - python-gdal
   - python-imaging
   - python-lxml
-  - python-mapnik
+  - python-mapnik2
   - python-matplotlib
   - python-nose
   - python-pandas
