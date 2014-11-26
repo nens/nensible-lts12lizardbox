@@ -1,7 +1,7 @@
 Changelog for nensible-lts12box
 ===============================
 
-0.1 (unreleased)
+0.1 (2014-11-26)
 ----------------
 
 - Using ubuntugis PPA.
