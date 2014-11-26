@@ -1,6 +1,12 @@
 Changelog for nensible-lts12box
 ===============================
 
+0.2 (unreleased)
+----------------
+
+- Nothing changed yet.
+
+
 0.1 (2014-11-26)
 ----------------
 
