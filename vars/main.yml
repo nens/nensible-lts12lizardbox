@@ -8,6 +8,7 @@ lts12lizardbox_packages:
   - gettext
   - git
   - libevent-dev
+  - libreadline-dev
   - lynx-cur
   - memcached
   - nginx
